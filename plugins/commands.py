@@ -238,8 +238,8 @@ async def start(client, message):
     await client.send_cached_media(
         chat_id=message.from_user.id,
         file_id=file_id,
-        caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/OpusTechz') ] ] ),
+        caption=f_caption,reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('JOIN✅️', url='t.me/jk_movies_area') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='t.me/Jk_films') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     

@@ -1,7 +1,7 @@
 {
-    "name": "ᗩᒍᗩ᙭",
+    "name": "TOM",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "logo": "https://telegra.ph/file/1b837a8df2670b0097aaf.jpg",
+    "logo": "https://telegra.ph/file/fd0c9b74c43ea3107ef0a.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,7 +16,7 @@
       "index",
       "inline"
     ],
-    "website": "https://t.me/+iiJvauon_6Q1Njk1",
+    "website": "https://t.me/the_mallu_casino",
     "repository": "🚶",
     "env": {
         "BOT_TOKEN": {

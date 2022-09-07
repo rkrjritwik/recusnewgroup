@@ -41,13 +41,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/JK_MOVIES_AREA'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/JKMoviesTG')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/mallu_casino'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/the_mallu_casino')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtu.be/tzMvcL8Lh4Y')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/+aaZFQCMAdx9mZjFl')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -84,13 +84,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/JK_MOVIES_AREA'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/JKMoviesTG')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/mallu_casino'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/the_mallu_casino')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtu.be/tzMvcL8Lh4Y')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/+aaZFQCMAdx9mZjFl')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(

@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/JK_SER")
+                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/the_mallu_casino")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -47,7 +47,7 @@ async def start(client, message):
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCIKMV3up0x6iHmTHv8WoRNg')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/+7uLCde7uRN82N2E1')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -90,7 +90,7 @@ async def start(client, message):
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCIKMV3up0x6iHmTHv8WoRNg')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/+7uLCde7uRN82N2E1')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(

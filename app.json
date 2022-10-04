@@ -1,7 +1,7 @@
 {
     "name": "TOM",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "logo": "https://telegra.ph/file/fd0c9b74c43ea3107ef0a.jpg",
+    "logo": "https://telegra.ph/file/33b8b22cd897fe5b90597.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
